@@ -18,7 +18,7 @@
 </div>
 
 ## Other skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40"/> <img src="https://img.utdstc.com/icon/472/454/472454658b9212b5b1519b67f640e87426ae0517cf8801746533c405c082941f:200"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40"/> <img src="https://img.utdstc.com/icon/472/454/472454658b9212b5b1519b67f640e87426ae0517cf8801746533c405c082941f:200" width="40" height="40" />
           
 ## Contact Me:
 
