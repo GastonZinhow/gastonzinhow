@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### - My name is Matheus Gaston and I was born in Belo Horizonte, Minas Gerais, Brasil;
 #### - My native language is portuguese and I'm fluent in english;
-#### - I started to code when I was 15 years old and currently studying at CEFET-MG in a technical course of computing;
+#### - I started to code when I was 15 years old and currently studying Software Engineering at PUC-MINAS;
 
 
 ## Languages
